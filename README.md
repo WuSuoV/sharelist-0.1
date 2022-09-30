@@ -13,6 +13,12 @@ pm2 save
 pm2 startup
 ```
 
+或
+
+宝塔的PM2管理器
+
+![image-20221001024601951](https://a-image.1ove.club/image/2022/10/image-20221001024601951.png)
+
 ## 更新
 
 ```bash
