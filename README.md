@@ -19,8 +19,3 @@ pm2 startup
 
 ![image-20221001024601951](https://a-image.1ove.club/image/2022/10/image-20221001024601951.png)
 
-## 更新
-
-```bash
-bash update.sh
-```
