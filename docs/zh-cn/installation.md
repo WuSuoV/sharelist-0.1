@@ -7,7 +7,7 @@ Sharelist支持多种安装方式。
 执行命令后将自动安装NodeJs环境，并在当前目录（执行命令的目录）安装sharelist。
 
 ```bash
-wget --no-check-certificate -qO-  https://raw.githubusercontent.com/reruin/sharelist/master/netinstall.sh | bash
+wget --no-check-certificate -qO-  https://raw.githubusercontent.com/qiantigers/sharelist-0.1/main/netinstall.sh | bash
 ```
 
 访问 `http://localhost:33001` 即可进入
@@ -33,7 +33,7 @@ pm2 startup
 更新
 ```bash
 bash update.sh
-```  
+```
 
 ## Docker
 ```bash

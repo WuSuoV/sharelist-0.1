@@ -1,6 +1,6 @@
 # Teambition
 
-由 [drive.teambition.js](https://github.com/reruin/sharelist/tree/master/plugins/drive.teambition.js) 插件实现。 
+由 [drive.teambition.js](https://github.com/qiantigers/sharelist-0.1/tree/main/plugins/drive.teambition.js) 插件实现。 
 ``` 挂载路径
 挂载路径留空
 ```
@@ -17,4 +17,4 @@ https://www.teambition.com/pan/org/xxxxxxxxxx/space/xxxxxxxxxx/folder/xxxxxxxxxx
 https://www.teambition.com/project/xxxxxx/works/xxxxxx
 ```
 
-?> 未适配国际版。   
+> 未适配国际版。   
