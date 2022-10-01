@@ -1,5 +1,10 @@
 # sharelist-0.1
 
+
+## 文档
+
+[中文文档](https://qiantigers.github.io/sharelist-0.1/docs/#/zh-cn/)
+
 ## 安装
 
 进入项目目录执行：
@@ -18,7 +23,3 @@ pm2 startup
 宝塔的PM2管理器
 
 ![image-20221001024601951](https://a-image.1ove.club/image/2022/10/image-20221001024601951.png)
-
-## 文档
-
-[中文文档](https://qiantigers.github.io/sharelist-0.1/docs/#/zh-cn/)
