@@ -7,7 +7,9 @@ block content
       -if(parent)
         a.back(href=parent)
           i.ic.ic-back(style="color:#53b0f6;font-size:18px;")
-      a.home(href='/')= _config_('title')
+      a.home(href='/')
+        img(src='https://g.alicdn.com/teambition-site/site/images/header/logo-one.svg' height='30.0px')
+        |  Teambition
       .upload-menu
         -if(writeable)
           a
