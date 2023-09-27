@@ -3,7 +3,7 @@
 
 ## 文档
 
-[中文文档](https://qiantigers.github.io/sharelist-0.1/docs/#/zh-cn/)
+[中文文档](https://wusuov.github.io/sharelist-0.1/docs/#/zh-cn/)
 
 ## 安装
 
@@ -22,4 +22,4 @@ pm2 startup
 
 宝塔的PM2管理器
 
-![image-20221001024601951](https://a-image.1ove.club/image/2022/10/image-20221001024601951.png)
+![image-20221001024601951](https://static.wusuov.com/image/2022/10/image-20221001024601951.png)
